@@ -1,0 +1,76 @@
+body {
+            background-color:aliceblue;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #0c80f5;
+            text-align: center;
+        }
+
+        h3{
+            color: #0c80f5;
+        }
+
+        p {
+            font-size: 17px;
+            text-align: justify;
+        }
+
+        ul {
+            line-height: 2;
+        }
+
+        img.hobbies {
+            width: 300px;
+            border-radius: 12px;
+            display: block;
+            margin: 10px auto;
+        }
+
+        img.países {
+            width: 100px;
+            border-radius: 12px;
+            display: block;
+            margin: 10px auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+
+        td {
+            padding: 10px;
+            text-align: center;
+        }
+
+        a {
+            color: #0c80f5;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #f85114;
+        }
+
+        button {
+            display: block;
+            border-radius: 10px;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        #mensagem {
+            text-align: center;
+            font-weight: bold;
+            margin-top: 10px;
+        }
